@@ -8,5 +8,3 @@
 
 데이터 수집 : 국가통계포털 KOSIS, 서울 열린데이터 광장</br>
 
-
-![Uploading image.png…]()
